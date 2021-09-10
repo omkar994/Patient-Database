@@ -1,0 +1,17 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% auto;
+    margin: 10px;
+  }
+  
+  .grid-item {
+    font-size: 20px;
+  }
+  
+  .heading {
+    font-weight: 600;
+  }
+  
+  .subscriber-info-container {
+    margin: 20px;
+  }

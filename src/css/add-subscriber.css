@@ -1,0 +1,81 @@
+.subscriber-form {
+    margin-top: 50px;
+  }
+  
+  .subscriber-info-container {
+    margin: 20px;
+    font-size: 16px;
+  }
+  
+  .to-add-heading {
+    color: blue;
+    font-weight: 600;
+  }
+
+  input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=number] {
+    width: 20%;
+    height: 5%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=email] {
+    width: 20%;
+    height: 5%;
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=date] {
+    width: 65%;
+    height: 5%;
+    padding: 12px 20px;
+   
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+ select {
+    width: 20%;
+    height: 5%;
+    padding: 12px 20px;
+    
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  .occupation{
+    margin-left: 25%;
+  }
+
+  .formDiv{
+    width: 70%;
+    float:right;
+  }
+
+
+  
+ .date {
+  display: inline;
+  float:right;
+  margin-right: 30%;
+}
